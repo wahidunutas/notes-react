@@ -106,7 +106,7 @@ const Notes = () => {
             <div className="notes-box">
                 <main>
                     <div className="main-header">
-                        <h1>Notes</h1>
+                        <h1>Notes edit</h1>
                         <div className="button-action">
                             {handleButton()}
                         </div>
